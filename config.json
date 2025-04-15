@@ -1,0 +1,11 @@
+{
+    "is_all_info_exist": 0,
+    "is_user_know_agreement": 0,
+    "user_email_address": "None",
+    "user_email_password": "None",
+    "host_email_address": "None",
+    "current_form": "None",
+    "forms_list": [
+        "complaint_form_sample.txt"
+    ]
+}
